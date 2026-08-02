@@ -1,4 +1,6 @@
-<!-- ===================== BANNER ===================== -->
+<!-- ========================================================= -->
+<!--                        HERO BANNER                         -->
+<!-- ========================================================= -->
 
 <p align="center">
   <img src="banner.png" width="100%" alt="Abu Talha Banner"/>
@@ -6,23 +8,21 @@
 
 <h1 align="center">Hi 👋, I'm Abu Talha</h1>
 
+<h3 align="center">
+Aspiring Data Analyst • SQL • Python • Power BI • PostgreSQL
+</h3>
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines=Aspiring+Data+Analyst;SQL+%7C+Python+%7C+Power+BI;PostgreSQL+Learner;Building+Real+World+Analytics+Projects;Always+Learning+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines=Transforming+Raw+Data+into+Actionable+Insights;Building+Real-World+Analytics+Projects;SQL+%7C+Python+%7C+Power+BI;Always+Learning+🚀" />
 </p>
 
 <p align="center">
 
-<a href="https://github.com/abutalha0649">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/mohammadabutalha">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/abutalha1857">
-<img src="https://img.shields.io/badge/HackerRank-3★-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
+<a href="#-about-me">About</a> •
+<a href="#-tech-stack">Tech Stack</a> •
+<a href="#-featured-projects">Projects</a> •
+<a href="#-learning-dashboard">Learning</a> •
+<a href="#-connect-with-me">Connect</a>
 
 </p>
 
@@ -30,21 +30,45 @@
 
 # 👨‍💻 About Me
 
-🎓 B.Tech 3rd Year Student
+<table>
 
-📊 Aspiring **Data Analyst** passionate about transforming raw data into actionable business insights.
+<tr>
 
-🌱 Currently learning
+<td width="60%">
 
-- SQL
-- PostgreSQL
-- Python
-- Power BI
-- Excel
+🎓 **B.Tech 3rd Year Student**
 
-🎯 **Mission**
+📊 **Aspiring Data Analyst**
 
-Build a strong portfolio of analytics projects and secure a Data Analyst Internship.
+📍 **India**
+
+💡 Passionate about solving business problems using data.
+
+🎯 **Career Goal**
+
+Become a Data Analyst by building practical projects with SQL, Python, Power BI, and Excel.
+
+</td>
+
+<td align="center">
+
+### 🚀 Current Focus
+
+✔ SQL
+
+✔ PostgreSQL
+
+🔄 Python
+
+🔄 Power BI
+
+🔄 Excel Dashboard
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
@@ -54,7 +78,9 @@ Build a strong portfolio of analytics projects and secure a Data Analyst Interns
 
 <img src="https://skillicons.dev/icons?i=python,postgres,git,github,vscode"/>
 
-<br><br>
+</p>
+
+<p align="center">
 
 <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white"/>
 
@@ -72,77 +98,119 @@ Build a strong portfolio of analytics projects and secure a Data Analyst Interns
 
 ---
 
-# 🚀 Featured Projects
-
-## 🛍️ Retail Sales Analysis
-
-A SQL analytics project focused on uncovering valuable business insights from retail sales data.
-
-### Key Highlights
-
-- 📊 Sales Performance Analysis
-- 🧹 Data Cleaning
-- 📈 Business KPIs
-- 🔍 Customer Insights
-- 📅 Time-based Analysis
-- ⚡ SQL Joins
-- ⚡ CTEs
-- ⚡ Window Functions
-
-### Tech Used
-
-`PostgreSQL` • `SQL`
-
-🔗 **Repository**
-
-https://github.com/abutalha0649/Retail-Sales-Analysis-SQL-Project--P1
-
----
-
-# 📚 Currently Learning
+# 📊 Learning Dashboard
 
 ```text
-███████████░░░░░░░  SQL                70%
+SQL              ███████████████░░░ 85%
 
-█████████░░░░░░░░░  PostgreSQL         60%
+PostgreSQL       █████████████░░░░░ 75%
 
-███████░░░░░░░░░░░  Python             40%
+Python           █████████░░░░░░░░░ 55%
 
-█████░░░░░░░░░░░░░  Power BI           30%
+Power BI         ██████░░░░░░░░░░░░ 40%
 
-████░░░░░░░░░░░░░░  Excel Dashboard    25%
+Excel            ███████░░░░░░░░░░░ 45%
 ```
 
 ---
 
-# 🏅 Coding Profiles
+# 🚀 Featured Projects
 
-### HackerRank
+## 🛍️ Retail Sales Analysis
 
-🏆 SQL ⭐⭐⭐
+> **Business Intelligence Project using PostgreSQL**
 
-🔗 https://www.hackerrank.com/abutalha1857
+### 📌 Project Highlights
+
+- 📊 Sales Trend Analysis
+- 🧹 Data Cleaning
+- 👥 Customer Analysis
+- 💰 Revenue KPIs
+- 📅 Time-based Analysis
+- ⚡ SQL Joins
+- ⚡ Window Functions
+- ⚡ Common Table Expressions (CTEs)
+
+### 🛠 Tools Used
+
+`SQL` • `PostgreSQL`
+
+### 🔗 Repository
+
+**➡️ https://github.com/abutalha0649/Retail-Sales-Analysis-SQL-Project--P1**
 
 ---
 
-### LeetCode
+## 📊 Upcoming Projects
 
-🧠 Coming Soon...
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Master SQL Basics
-- ✅ Complete SQL Practice
-- 🔄 Build 10+ Data Analytics Projects
-- 🔄 Learn Advanced Power BI
-- 🔄 Master Python for Data Analysis
-- 🎯 Secure a Data Analyst Internship
+| Project | Status |
+|----------|--------|
+| 📈 Power BI Sales Dashboard | 🚧 In Progress |
+| 🐍 Python Data Analysis | 🚧 Coming Soon |
+| 📉 Customer Churn Analysis | 📅 Planned |
+| 📋 Excel Dashboard | 📅 Planned |
 
 ---
 
-# 📬 Connect With Me
+# 🏆 Achievements
+
+🏅 **HackerRank SQL – 3★**
+
+📘 Solving SQL Problems Regularly
+
+📂 Building Data Analytics Portfolio
+
+🎯 Preparing for Data Analyst Interviews
+
+---
+
+# 🗺️ 2026 Roadmap
+
+```text
+✔ SQL Fundamentals
+
+✔ PostgreSQL
+
+🔄 Python
+
+🔄 Power BI
+
+⬜ Excel Dashboard
+
+⬜ Machine Learning Basics
+
+🎯 Data Analyst Internship
+```
+
+---
+
+# 📚 Currently Exploring
+
+- SQL Optimization
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Power BI Dashboards
+- Python (Pandas & NumPy)
+
+---
+
+# 🌐 Coding Profiles
+
+<p align="center">
+
+<a href="https://www.hackerrank.com/abutalha1857">
+<img src="https://img.shields.io/badge/HackerRank-Visit_Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/abutalha1856/">
+<img src="https://img.shields.io/badge/LeetCode-Visit_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 🤝 Connect With Me
 
 <p align="center">
 
@@ -154,20 +222,22 @@ https://github.com/abutalha0649/Retail-Sales-Analysis-SQL-Project--P1
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.hackerrank.com/abutalha1857">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-<p align="center">
+<div align="center">
 
-### ⭐ Favorite Quote
+## 💬 Quote
 
-> "Without data, you're just another person with an opinion."
+> **"Data tells a story. I enjoy discovering it and turning it into decisions."**
 
-Thanks for visiting my profile! 🚀
+⭐ **Thank you for visiting my profile!**
 
-</p>
+If you like my projects, feel free to ⭐ star the repositories and connect with me.
+
+</div>
