@@ -1,5 +1,5 @@
 <!-- Banner -->
-<h1 align="center">Hi 👋, I'm Abu Talha</h1>
+<h1 align="center">Hi 👋, I'm Mohammad Abu Talha</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;SQL+%7C+Python+%7C+Power+BI;Building+Real-World+Data+Projects;Always+Learning+New+Things+🚀" alt="Typing SVG" />
