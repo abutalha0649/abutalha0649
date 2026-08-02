@@ -211,7 +211,7 @@ Excel
 
 🔗 Repository:
 
-https://github.com/abutalha0649/Retail-Sales-Analysis-SQL-Project--P1
+https://github.com/abutalha0649/retail-sales-analysis-sql
 
 
 
