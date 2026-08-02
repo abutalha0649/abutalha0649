@@ -1,15 +1,29 @@
-<img width="1717" height="916" alt="ChatGPT Image Aug 2, 2026, 09_41_32 PM" src="https://github.com/user-attachments/assets/aed7d6e5-bfbe-4f6b-a3b5-080b2eaa2eb8" />
-
-<!-- ========================= BANNER ========================= -->
+<!-- ===================== BANNER ===================== -->
 
 <p align="center">
-  <img src="banner.png" alt="Banner" width="100%">
+  <img src="banner.png" width="100%" alt="Abu Talha Banner"/>
 </p>
 
-<!-- ====================== TYPING SVG ======================== -->
+<h1 align="center">Hi 👋, I'm Abu Talha</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Abu+Talha;Aspiring+Data+Analyst;SQL+%7C+Python+%7C+Power+BI;PostgreSQL+Enthusiast;Building+Real-World+Analytics+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines=Aspiring+Data+Analyst;SQL+%7C+Python+%7C+Power+BI;PostgreSQL+Learner;Building+Real+World+Analytics+Projects;Always+Learning+🚀"/>
+</p>
+
+<p align="center">
+
+<a href="https://github.com/abutalha0649">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mohammadabutalha">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/abutalha1857">
+<img src="https://img.shields.io/badge/HackerRank-3★-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
 </p>
 
 ---
@@ -18,9 +32,9 @@
 
 🎓 B.Tech 3rd Year Student
 
-📊 Aspiring Data Analyst passionate about transforming raw data into meaningful business insights.
+📊 Aspiring **Data Analyst** passionate about transforming raw data into actionable business insights.
 
-🌱 Currently Learning
+🌱 Currently learning
 
 - SQL
 - PostgreSQL
@@ -28,7 +42,9 @@
 - Power BI
 - Excel
 
-🎯 **Goal:** Secure a Data Analyst Internship and build impactful analytics projects.
+🎯 **Mission**
+
+Build a strong portfolio of analytics projects and secure a Data Analyst Internship.
 
 ---
 
@@ -38,129 +54,108 @@
 
 <img src="https://skillicons.dev/icons?i=python,postgres,git,github,vscode"/>
 
-</p>
+<br><br>
 
-<p align="center">
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/SQL-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge">
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge">
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-</p>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
----
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
-# 📊 GitHub Stats
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
 
-<p align="center">
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=abutalha0649&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=abutalha0649&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 🚀 Featured Projects
 
-<p align="center">
+## 🛍️ Retail Sales Analysis
 
-<img src="https://streak-stats.demolab.com?user=abutalha0649&theme=tokyonight&hide_border=true"/>
+A SQL analytics project focused on uncovering valuable business insights from retail sales data.
 
-</p>
+### Key Highlights
 
----
+- 📊 Sales Performance Analysis
+- 🧹 Data Cleaning
+- 📈 Business KPIs
+- 🔍 Customer Insights
+- 📅 Time-based Analysis
+- ⚡ SQL Joins
+- ⚡ CTEs
+- ⚡ Window Functions
 
-# 🏆 GitHub Trophies
+### Tech Used
 
-<p align="center">
+`PostgreSQL` • `SQL`
 
-<img src="https://github-profile-trophy.vercel.app/?username=abutalha0649&theme=tokyonight&column=4"/>
+🔗 **Repository**
 
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/abutalha0649/abutalha0649/output/github-contribution-grid-snake.svg"/>
-
-</p>
+https://github.com/abutalha0649/Retail-Sales-Analysis-SQL-Project--P1
 
 ---
 
-# 📂 Featured Project
+# 📚 Currently Learning
 
-## 🛍️ Retail Sales Analysis (SQL)
+```text
+███████████░░░░░░░  SQL                70%
 
-✔ PostgreSQL
+█████████░░░░░░░░░  PostgreSQL         60%
 
-✔ SQL Joins
+███████░░░░░░░░░░░  Python             40%
 
-✔ Window Functions
+█████░░░░░░░░░░░░░  Power BI           30%
 
-✔ CTEs
-
-✔ Business KPIs
-
-✔ Data Cleaning
-
-🔗 **Repository:** YOUR_RETAIL_REPO_LINK
+████░░░░░░░░░░░░░░  Excel Dashboard    25%
+```
 
 ---
 
-# 🧠 Coding Profiles
+# 🏅 Coding Profiles
+
+### HackerRank
+
+🏆 SQL ⭐⭐⭐
+
+🔗 https://www.hackerrank.com/abutalha1857
+
+---
+
+### LeetCode
+
+🧠 Coming Soon...
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Master SQL Basics
+- ✅ Complete SQL Practice
+- 🔄 Build 10+ Data Analytics Projects
+- 🔄 Learn Advanced Power BI
+- 🔄 Master Python for Data Analysis
+- 🎯 Secure a Data Analyst Internship
+
+---
+
+# 📬 Connect With Me
 
 <p align="center">
 
-<a href="https://leetcode.com/u/abutalha1856">
-<img src="https://leetcard.jacoblin.cool/abutalha1856?theme=dark"/>
+<a href="https://github.com/abutalha0649">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-</p>
-
-<p align="center">
-
-<a href="https://www.hackerrank.com/abutalha1857">
-
-<img src="https://img.shields.io/badge/HackerRank-abutalha1857-00EA64?style=for-the-badge&logo=hackerrank"/>
-
-</a>
-
-</p>
-
----
-
-# 📈 Current Goals
-
-- Master Advanced SQL
-- Learn Pandas & NumPy
-- Build 10+ Data Analytics Projects
-- Learn Advanced Power BI
-- Crack a Data Analyst Internship
-
----
-
-# 🤝 Connect With Me
-
-<p align="center">
 
 <a href="https://www.linkedin.com/in/mohammadabutalha">
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-
+<a href="https://www.hackerrank.com/abutalha1857">
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
 </p>
@@ -169,8 +164,10 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=abutalha0649
 
 <p align="center">
 
-⭐ **"Without data, you're just another person with an opinion."**
+### ⭐ Favorite Quote
 
-Thanks for visiting my profile!
+> "Without data, you're just another person with an opinion."
+
+Thanks for visiting my profile! 🚀
 
 </p>
